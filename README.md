@@ -1,4 +1,4 @@
-# Pixel Perfect Replication
+# BACKGROUND REMOVER
 
 Implement exactly the screenshot and nothing else
 
